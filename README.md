@@ -1,8 +1,8 @@
-# RockPAPERscissorsShoot-
+# RockPAPERscissorsShoot
 
-## This is a simple game of 🗿 Rock, 📃 Paper, ✂️ Scissors. 
+## This is a simple game of 🗿 Rock, 📃 Paper, ✂️ Scissors 
 
-### User V Computer.
+### User V Computer
 
 _If user picks rock and if computer picks scissors then user wins._
 
