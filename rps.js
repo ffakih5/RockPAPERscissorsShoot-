@@ -11,6 +11,7 @@ for(var i = 0; i < 10; i++) {
     console.log(compGuess)
 
     var userGuess = prompt("Enter r, p or s to play!") ;
+    userGuess = userGuess.toLowerCase();
     
     
     if (userGuess === "r" || userGuess === "p" || userGuess === "s") {
