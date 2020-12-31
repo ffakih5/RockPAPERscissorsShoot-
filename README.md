@@ -22,7 +22,7 @@ _If user picks the same as computer then they tie._
 
 ![RPS](Images/RPS.png)
 
-##### To shoot click me! [🗑](https://ffakih5.github.io/RockPAPERscissorsShoot-/.) 
+##### To shoot click me! [🗑](file:///Users/fatimafakih/RockPAPERscissorsShoot-/RockPaperScissors.html) 
 
 
 
